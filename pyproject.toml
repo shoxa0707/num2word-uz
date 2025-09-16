@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "num2word-uz"
-version = "0.1.0"
+version = "0.0.5"
 description = "Convert numbers to words in Uzbek language"
 authors = [{name = "Ubuntu", email = "ubuntu9550@gmail.com"}]
 license = {text = "MIT"}
